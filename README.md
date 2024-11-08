@@ -1,7 +1,7 @@
 # climate-resilience-in-FIPs
 
 
-### If you want to build all data from scratch folloe step 0 and step .5 otherwise skip and go to step 1:
+### If you want to build all data from scratch follow step 0 and step .5 otherwise skip and go to step 1:
 
 1. **Step 0 (initial processing)**
    - Run `Step_0_processing.R` to process raw data and create base datasets.
