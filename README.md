@@ -1,7 +1,10 @@
 # climate-resilience-in-FIPs
 
 
-### If you want to build all data from scratch follow step 0 and step .5 otherwise skip and go to step 1:
+### If you want to build all data from scratch
+Go first to the `Processing` folder and run Step 0 and Step 0.5 scripts. Otherwise, skip to the `Analysis` folder and run the Step 1 script.
+
+After running Step 1, run any script in the `analysis` folder in any order as needed.
 
 1. **Step 0 (initial processing)**
    - Run `Step_0_processing.R` to process raw data and create base datasets.
@@ -24,10 +27,3 @@
 
 3. **Step 1 (pre-analysis setup)**
    - Run `Step_1_load_before_analysis.R` to load themes, packages, and prepare data for analysis.
-
-### Start with pre-processed data
-If you prefer to skip initial data processing, start from **Step 1**:
-- Use `Step_1_load_before_analysis.R` to set up the environment, load packages, and apply the theme.
-
-### Run analysis scripts
-After running Step 1, run any script in the `analysis` folder in any order as needed.
