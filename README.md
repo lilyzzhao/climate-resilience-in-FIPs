@@ -1,7 +1,16 @@
 # climate-resilience-in-FIPs
 
+##Folders
 
-### If you want to build all data from scratch
+- **data**: Contains raw and processed data files.
+- **main_figures**: Stores the main figures generated from the analysis.
+- **processing**: Includes scripts for data processing and preparation. (step 0 and step .5 found here)
+- **supp_figures**: Stores supplementary figures generated from the analysis.
+- **tables**: Contains tables used in the project.
+- **analysis**: Includes scripts used to generate main and supplementary figures. (step 1 found here)
+
+
+##  If you want to build all data from scratch
 Go first to the `Processing` folder and run Step 0 and Step 0.5 scripts. Otherwise, skip to the `Analysis` folder and run the Step 1 script.
 
 After running Step 1, run any script in the `analysis` folder in any order as needed.
