@@ -1,0 +1,50 @@
+assessment,code,indicator_code,indicator,principle,assessment_c,assessment_principle,core,i_short,levels_i
+ERA,1.1.1,ERA 1.1.1,Stock status outcome,Sustainable fish stocks,Outcome,ERA_P1,,Stock status,1
+ERA,1.1.2,ERA 1.1.2,Stock rebuilding outcome,Sustainable fish stocks,Outcome,ERA_P1,,Stock rebuilding,2
+ERA,1.2.1,ERA 1.2.1,Harvest strategy,Sustainable fish stocks,Management,ERA_P1,,Harvest strategy,3
+ERA,1.2.2,ERA 1.2.2,Harvest control rules,Sustainable fish stocks,Management,ERA_P1,,Harvest control,4
+ERA,1.2.3,ERA 1.2.3,Information and monitoring,Sustainable fish stocks,Management,ERA_P1,,I. and monitoring,5
+ERA,1.2.4,ERA 1.2.4,Assessment of stock status,Sustainable fish stocks,Management,ERA_P1,,Stock assessment,6
+ERA,2.2.1,ERA 2.2.1,Other species outcome,Minimising impacts,Other species,ERA_P2,,Other species o.,7
+ERA,2.2.2,ERA 2.2.2,Other species management,Minimising impacts,Other species,ERA_P2,,Other species m.,8
+ERA,2.2.3,ERA 2.2.3,Other species information,Minimising impacts,Other species,ERA_P2,,Other species i.,9
+ERA,2.3.1,ERA 2.3.1,ETP species outcome,Minimising impacts,ETP species,ERA_P2,,ETP species o.,10
+ERA,2.3.2,ERA 2.3.2,ETP species management,Minimising impacts,ETP species,ERA_P2,,ETP species m.,11
+ERA,2.3.3,ERA 2.3.3,ETP species information,Minimising impacts,ETP species,ERA_P2,,ETP species i.,12
+ERA,2.4.1,ERA 2.4.1,Habitats outcome,Minimising impacts,Habitats,ERA_P2,,Habitats o.,13
+ERA,2.4.2,ERA 2.4.2,Habitats management,Minimising impacts,Habitats,ERA_P2,,Habitats m.,14
+ERA,2.4.3,ERA 2.4.3,Habitats information,Minimising impacts,Habitats,ERA_P2,,Habitats i.,15
+ERA,2.5.1,ERA 2.5.1,Ecosystem outcome,Minimising impacts,Ecosystem,ERA_P2,,Ecosystem o.,16
+ERA,2.5.2,ERA 2.5.2,Ecosystem management,Minimising impacts,Ecosystem,ERA_P2,,Ecosystem m.,17
+ERA,2.5.3,ERA 2.5.3,Ecosystem information,Minimising impacts,Ecosystem,ERA_P2,,Ecosystem i.,18
+ERA,3.1.1,ERA 3.1.1,Legal and/or customary framework,Effective fisheries management,Governance & policy,ERA_P3,,Legal  framework,19
+ERA,3.1.2,ERA 3.1.2,"Consultation, roles, and responsibilities",Effective fisheries management,Governance & policy,ERA_P3,,Consultation and roles,20
+ERA,3.1.3,ERA 3.1.3,Long term objectives,Effective fisheries management,Governance & policy,ERA_P3,,Long term objectives,21
+ERA,3.2.1,ERA 3.2.1,Fishery-specific objectives,Effective fisheries management,Fishery specific management system,ERA_P3,,Fishery-specific objectives,22
+ERA,3.2.2,ERA 3.2.2,Decision-making processes,Effective fisheries management,Fishery specific management system,ERA_P3,,Decision-making,23
+ERA,3.2.3,ERA 3.2.3,Compliance and enforcement,Effective fisheries management,Fishery specific management system,ERA_P3,,Compliance & enforcement,24
+ERA,3.2.4,ERA 3.2.4,"Monitoring, management, performance evaluation",Effective fisheries management,Fishery specific management system,ERA_P3,,Monitoring & evaluation,25
+SRA,1.1.1,SRA 1.1.1,Abuse and harassment,"Protect human rights, dignity, and access to resources",Human and labor rights,SRA_P1,x,Abuse & harassment*,26
+SRA,1.1.2,SRA 1.1.2,"Human trafficking, forced labor and debt bondage","Protect human rights, dignity, and access to resources",Human and labor rights,SRA_P1,x,Human trafficking*,27
+SRA,1.1.3,SRA 1.1.3,Child labor,"Protect human rights, dignity, and access to resources",Human and labor rights,SRA_P1,x,Child labor*,28
+SRA,1.1.5,SRA 1.1.5,Earnings and benefits,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining,SRA_P1,x,Earnings and benefits*,29
+SRA,1.1.6,SRA 1.1.6,Adequate rest,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining,SRA_P1,x,Adequate rest*,30
+SRA,1.1.7,SRA 1.1.7,Access to basic services,"Protect human rights, dignity, and access to resources",Access to basic services for worker housing/ live-aboard vessels,SRA_P1,x,Access to basic services*,31
+SRA,1.1.8,SRA 1.1.8,Occupational safety,"Protect human rights, dignity, and access to resources",Occupational safety,SRA_P1,x,Occupational safety*,32
+SRA,1.1.9,SRA 1.1.9,Medical response,"Protect human rights, dignity, and access to resources",Medical response,SRA_P1,x,Medical response*,33
+SRA,1.2.1,SRA 1.2.1,Customary resource use rights,"Protect human rights, dignity, and access to resources",Access Rights,SRA_P1,x,Customary resource rights*,34
+SRA,1.2.2,SRA 1.2.2,Corporate responsibility and transparency,"Protect human rights, dignity, and access to resources",Access Rights,SRA_P1,,Corporate responsibility,35
+SRA,2.1.1,SRA 2.1.1,Grievance reporting and access to remedy,Ensure equality and equitable opportunity to benefit,Equality,SRA_P2,x,Grievance reporting*,36
+SRA,2.1.2,SRA 2.1.2,Stakeholder participation and collaborative management,Ensure equality and equitable opportunity to benefit,Equality,SRA_P2,,Stakeholder participation,37
+SRA,2.2.1,SRA 2.2.1,Equitable opportunity to benefit,Ensure equality and equitable opportunity to benefit,Equity,SRA_P2,,Equitable opportunity,38
+SRA,2.2.2,SRA 2.2.2,Discrimination,Ensure equality and equitable opportunity to benefit,Equity,SRA_P2,x,Discrimination*,39
+SRA,3.1.1,SRA 3.1.1,Food and nutrition security,"Improve food, nutrition, and livelihood security",Food and nutrition security,SRA_P3,,Food & nutrition security,40
+SRA,3.1.2,SRA 3.1.2,Healthcare,"Improve food, nutrition, and livelihood security",Food and nutrition security,SRA_P3,,Healthcare,41
+SRA,3.1.3,SRA 3.1.3,Education,"Improve food, nutrition, and livelihood security",Food and nutrition security,SRA_P3,,Education,42
+SRA,3.2.1,SRA 3.2.1,Benefits to and within community,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Community benefits,43
+SRA,3.2.2,SRA 3.2.2,Economic value retention,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Economic value retention,44
+SRA,3.2.3,SRA 3.2.3,Long-term profitability and future workforce,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Long-term profitability,45
+SRA,3.2.4,SRA 3.2.4,Economic flexibility and autonomy,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Economic flexibility,46
+SRA,3.2.5,SRA 3.2.5,Livelihood security,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Livelihood security,47
+SRA,3.2.6,SRA 3.2.6,Fuel resource efficiency,"Improve food, nutrition, and livelihood security",Livelihood security,SRA_P3,,Fuel efficiency,48
+SRA,1.1.4,SRA 1.1.4,Freedom of association and collective bargaining,"Protect human rights, dignity, and access to resources",Human and labor rights,SRA_P1,x,Freedom of association*,49

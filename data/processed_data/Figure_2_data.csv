@@ -1,0 +1,45 @@
+attribute,level,max_ERA,max_SRA,total_both,comparison,change
+Access to economic opportunity,Assessment Level,0,3,3,SRA stronger,3
+Access to knowledge,Assessment Level,1,2,3,SRA stronger,1
+Accountable,Assessment Level,2,3,5,SRA stronger,1
+Adaptive,Assessment Level,1,1,2,Equal strength,0
+Age structure,Assessment Level,2,0,2,ERA stronger,2
+Agency,Assessment Level,0,3,3,SRA stronger,3
+Economic diversity,Assessment Level,0,1,1,SRA stronger,1
+Ecosystem connectivity,Assessment Level,1,0,1,ERA stronger,1
+Efficient and effective,Assessment Level,2,0,2,ERA stronger,2
+Equitable and inclusive,Assessment Level,1,3,4,SRA stronger,2
+Habitat diversity,Assessment Level,1,0,1,ERA stronger,1
+Knowledge diversity,Assessment Level,2,0,2,ERA stronger,2
+Learning capacity,Assessment Level,0,1,1,SRA stronger,1
+Mobility,Assessment Level,0,1,1,SRA stronger,1
+Participatory,Assessment Level,3,3,6,Equal strength,0
+Polycentric,Assessment Level,2,0,2,ERA stronger,2
+Population abundance,Assessment Level,3,0,3,ERA stronger,3
+Responsive,Assessment Level,1,0,1,ERA stronger,1
+Social capital,Assessment Level,0,2,2,SRA stronger,2
+Species diversity,Assessment Level,1,0,1,ERA stronger,1
+Transparent,Assessment Level,2,3,5,SRA stronger,1
+Wealth and reserves,Assessment Level,0,3,3,SRA stronger,3
+Access to economic opportunity,Indicator Level,0,3,3,SRA stronger,3
+Access to knowledge,Indicator Level,1,2,3,SRA stronger,1
+Accountable,Indicator Level,1,3,4,SRA stronger,2
+Adaptive,Indicator Level,1,1,2,Equal strength,0
+Age structure,Indicator Level,2,0,2,ERA stronger,2
+Agency,Indicator Level,0,2,2,SRA stronger,2
+Economic diversity,Indicator Level,0,1,1,SRA stronger,1
+Ecosystem connectivity,Indicator Level,1,0,1,ERA stronger,1
+Efficient and effective,Indicator Level,2,0,2,ERA stronger,2
+Equitable and inclusive,Indicator Level,1,2,3,SRA stronger,1
+Habitat diversity,Indicator Level,1,0,1,ERA stronger,1
+Knowledge diversity,Indicator Level,2,0,2,ERA stronger,2
+Learning capacity,Indicator Level,0,1,1,SRA stronger,1
+Mobility,Indicator Level,0,1,1,SRA stronger,1
+Participatory,Indicator Level,3,3,6,Equal strength,0
+Polycentric,Indicator Level,2,0,2,ERA stronger,2
+Population abundance,Indicator Level,3,0,3,ERA stronger,3
+Responsive,Indicator Level,1,0,1,ERA stronger,1
+Social capital,Indicator Level,0,2,2,SRA stronger,2
+Species diversity,Indicator Level,1,0,1,ERA stronger,1
+Transparent,Indicator Level,1,3,4,SRA stronger,2
+Wealth and reserves,Indicator Level,0,2,2,SRA stronger,2

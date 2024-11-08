@@ -1,0 +1,51 @@
+attribute,coverage_score,assessment_considered,attribute_dimension
+Access to economic opportunity,3,Combined,Socio-economic
+Access to knowledge,2,Combined,Socio-economic
+Accountable,3,Combined,Governance
+Adaptive,1,Combined,Governance
+Agency,3,Combined,Socio-economic
+Economic diversity,1,Combined,Socio-economic
+Equitable and inclusive,3,Combined,Governance
+Learning capacity,1,Combined,Socio-economic
+Mobility,1,Combined,Socio-economic
+Participatory,3,Combined,Governance
+Social capital,2,Combined,Socio-economic
+Transparent,3,Combined,Governance
+Wealth and reserves,3,Combined,Socio-economic
+Age structure,2,Combined,Ecological
+Ecosystem connectivity,1,Combined,Ecological
+Efficient and effective,2,Combined,Governance
+Habitat diversity,1,Combined,Ecological
+Knowledge diversity,2,Combined,Socio-economic
+Polycentric,2,Combined,Governance
+Population abundance,3,Combined,Ecological
+Responsive,1,Combined,Governance
+Species diversity,1,Combined,Ecological
+Access to economic opportunity,3,SRA,Socio-economic
+Access to knowledge,2,SRA,Socio-economic
+Accountable,3,SRA,Governance
+Adaptive,1,SRA,Governance
+Agency,3,SRA,Socio-economic
+Economic diversity,1,SRA,Socio-economic
+Equitable and inclusive,3,SRA,Governance
+Learning capacity,1,SRA,Socio-economic
+Mobility,1,SRA,Socio-economic
+Participatory,3,SRA,Governance
+Social capital,2,SRA,Socio-economic
+Transparent,3,SRA,Governance
+Wealth and reserves,3,SRA,Socio-economic
+Access to knowledge,1,ERA,Socio-economic
+Accountable,2,ERA,Governance
+Adaptive,1,ERA,Governance
+Age structure,2,ERA,Ecological
+Ecosystem connectivity,1,ERA,Ecological
+Efficient and effective,2,ERA,Governance
+Equitable and inclusive,1,ERA,Governance
+Habitat diversity,1,ERA,Ecological
+Knowledge diversity,2,ERA,Socio-economic
+Participatory,3,ERA,Governance
+Polycentric,2,ERA,Governance
+Population abundance,3,ERA,Ecological
+Responsive,1,ERA,Governance
+Species diversity,1,ERA,Ecological
+Transparent,2,ERA,Governance

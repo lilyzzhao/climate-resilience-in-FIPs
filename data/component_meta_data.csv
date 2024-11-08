@@ -1,0 +1,41 @@
+﻿attribute_component,attribute_component_definition,attribute,attribute_complexity,component_details
+Access to economic opportunity-C1,The degree to which physical  means and processes (e.g. transportation networks) enable individuals and communities to benefit from new or alternative income-earning or subsistence activities,Access to economic opportunity,multi-c,(in terms of physical means)
+Access to economic opportunity-C2,The degree to which non-physical means and processes (i.e. collectives) enable individuals and communities to benefit from new or alternative income-earning or subsistence activities exist. ,Access to economic opportunity,multi-c,(in terms of non-physical means)
+Access to knowledge-C1,The extent to which individuals and communities have equitable access to the variety of existing available information within the system,Access to knowledge,multi-c,(in regards of equitable access)
+Access to knowledge-C2,The ability of individuals and communities to derive benefit from the variety of existing knowledge about the system,Access to knowledge,multi-c,(in terms of the ability derive benefit)
+Accountable-C1,The degree to which decisions and decision makers can be held culpable to both the individuals and communities that they govern,Accountable,multi-c,(in terms of being held culpable to both the individuals and communities)
+Accountable-C2,"The degree to which decisions and decision makers are held culpable to higher-level mandates, commitments, goals, and objectives they serve",Accountable,multi-c,"(in regards of being held culpable to higher-level mandates, commitments, goals, and objectives)"
+Economic diversity-C1,"The variety of income earning activities that an individual, household, or community can partake in within the fishery",Economic diversity,multi-c,(within the fishery)
+Economic diversity-C2,"The variety of income earning activities that an individual, household, or community can partake in outside the fishery",Economic diversity,multi-c,(outside the fishery)
+Efficient and effective-C1,The ability of governance to produce outcomes that achieve societal and/or fishery objectives,Efficient and effective,multi-c,(in terms of effectiveness)
+Efficient and effective-C2,The ability of governance to use resources efficiently,Efficient and effective,multi-c,(in terms of efficiency)
+Equitable and inclusive-C1,The extent to which governance is fair in the distribution of burdens and benefits,Equitable and inclusive,multi-c,(in terms of distributional equity)
+Equitable and inclusive-C2,The management system is procedurally equitable and engaged and inclusive of marginalized and disadvantaged groups,Equitable and inclusive,multi-c,(in terms of procedural equity)
+Flexible and agile infrastructure-C1,The ability of built structure and facilities to provide needed services under a wide range of conditions,Flexible and agile infrastructure,multi-c,(for wide range of conditions)
+Flexible and agile infrastructure-C2,The ability of built structure and facilities  quickly respond to predictable and unpredictable changes.,Flexible and agile infrastructure,multi-c,(for quick response)
+Knowledge diversity-C1/1,The degree of variety in the origins of knowledge sources available to individuals and members of the community [and used in decision-making].,Knowledge diversity,single-c,
+Leadership and initiative-C1,"The degree to which leaders are guided by collective interests, who mobilize and direct responses to disruptions and who take responsibility and act when necessary",Leadership and initiative,multi-c,
+Leadership and initiative-C2,The degree to which the governance system legitimizes and supports the development of such leaders,Leadership and initiative,multi-c,
+Learning capacity-C1,The extent to which individuals and communities are able to recognize change and potential risk,Learning capacity,multi-c,(for recognizing change and potential risk)
+Learning capacity-C2,The extent to which individuals and communities have the knowledge to pose solutions to risks,Learning capacity,multi-c,(for having the knowledge to pose solutions to risks)
+Mobility-C1,"The extent to which individual fishers, fishworkers can move freely",Mobility,multi-c,(for individual fishers and fisherworkers)
+Mobility-C2,The extent to which communities and fishing operations  can move freely,Mobility,multi-c,(for communities and fishing operations)
+Social capital-C1,The level and strength of social networks between individuals ,Social capital,multi-c,(between individuals)
+Social capital-C2,The level and strength of existing  networks between organizations in the system,Social capital,multi-c,(between organizations)
+Technology transfer-C1,The capacity of individuals and communities to develop and acquire new technologies,Technology transfer,multi-c,
+Technology transfer-C2,The extent to which new technologies and methods are transferred between and among actors in the system,Technology transfer,multi-c,
+Transparent-C1,The degree to which information regarding decision-making is available to the public or affected stakeholders in a timely manner,Transparent,multi-c,(available to public and  in a timely manner)
+Transparent-C2,The degree to which information regarding decision-making that is available is in a form accessible to the public or affected stakeholders,Transparent,multi-c,(in a form accessible)
+Adaptive-C1/1,"The capacity to implement a structured, iterative process of continual innovation, testing, learning, and adjustment that facilitates robust, flexible decision-making and action in the face of uncertainty and complexity.",Adaptive,single-c,
+Age structure-C1/1,The extent to which the age distribution of individuals within the fished population is intact and well-distributed.,Age structure,single-c,
+Agency-C1/1,"The capacity of individuals and communities to negotiate, make decisions, and act on their own free will.",Agency,single-c,
+Cross-scale integration-C1/1,"The degree to which actors and/or organizations acknowledge, work with, and attempt to understand the relevance and transition of scale and the interlinkages between various other organizations, institutions, and management structures.",Cross-scale integration,single-c,
+Ecosystem connectivity-C1/1,"The degree to which an ecosystem facilitates the structural and physical connection among suitable, adjacent, and/or available ecosystem functions and components.",Ecosystem connectivity,single-c,
+Habitat diversity-C1/1,"The range of suitable, adjacent, and available habitats that a target fish population can exploit",Habitat diversity,single-c,
+Participatory-C1/1,"The degree to which an institution empowers participants to influence and share control in processes of public decision-making, ranging from intermittent consultation opportunities to ongoing self-mobilization.",Participatory,single-c,
+Polycentric-C1/1,The degree to which multiple bodies at different levels of the governance system overlap and interact to make and enforce rules within a specific policy arena or location.,Polycentric,single-c,
+Population abundance-C1/1,The abundance or biomass of a species present in a defined geographic range is high,Population abundance,single-c,
+Resilience mindset-C1/1,The ability of individuals demonstrate resilience thinking,Resilience mindset,single-c,
+Responsive-C1/1,"The sensitivity, readiness, speed, and accuracy with which a governance system handles, resolves, and follows up on a management-relevant change to meet stakeholders‚Äô needs.",Responsive,single-c,
+Species diversity-C1/1,The level of diversity of species within the broader ecosystem,Species diversity,single-c,
+Wealth and reserves-C1/1,"The aggregate value of assets available to individuals, organizations and communities that contribute to human well-being.",Wealth and reserves,single-c,

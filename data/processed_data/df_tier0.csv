@@ -1,0 +1,1961 @@
+indicator_code,attribute_component,indicator_component_score,attribute,attribute_complexity,attribute_dimension
+ERA 1.1.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.1.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.1.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.1.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.1.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.1.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.1.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.1.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.1.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.1.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.1.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.1.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.1.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.1.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.1.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 1.1.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.1.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.1.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.1.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.1.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.1.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.1.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.1.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.1.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.1.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.1.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.1.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.1.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.1.1,Age structure-C1/1,2,Age structure,single-c,Ecological
+ERA 1.1.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.1.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.1.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.1.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.1.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.1.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.1.1,Population abundance-C1/1,3,Population abundance,single-c,Ecological
+ERA 1.1.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.1.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 1.1.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.1.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 1.1.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.1.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.1.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.1.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.1.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.1.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.1.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.1.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.1.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.1.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.1.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.1.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.1.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.1.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.1.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 1.1.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.1.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.1.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.1.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.1.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.1.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.1.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.1.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.1.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.1.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.1.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.1.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.1.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.1.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 1.1.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.1.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.1.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.1.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.1.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.1.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.1.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 1.1.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.1.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 1.1.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.1.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 1.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.2.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 1.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 1.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.2.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 1.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.2.1,Responsive-C1/1,1,Responsive,single-c,Governance
+ERA 1.2.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.2.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 1.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.2.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.2.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 1.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.2.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 1.2.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 1.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 1.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 1.2.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.2.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.2.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.2.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.2.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.3,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 1.2.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.2.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.2.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.2.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.2.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.2.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.2.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.2.3,Age structure-C1/1,1,Age structure,single-c,Ecological
+ERA 1.2.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.2.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.2.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.2.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.2.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.2.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.2.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 1.2.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.2.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 1.2.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.2.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 1.2.4,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.4,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 1.2.4,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.4,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 1.2.4,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 1.2.4,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 1.2.4,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.4,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 1.2.4,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 1.2.4,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 1.2.4,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.4,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 1.2.4,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.4,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 1.2.4,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 1.2.4,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.4,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 1.2.4,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.4,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 1.2.4,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 1.2.4,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 1.2.4,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 1.2.4,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 1.2.4,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.4,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 1.2.4,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 1.2.4,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 1.2.4,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 1.2.4,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 1.2.4,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 1.2.4,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 1.2.4,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 1.2.4,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 1.2.4,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 1.2.4,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 1.2.4,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 1.2.4,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 1.2.4,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 1.2.4,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 1.2.4,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.2.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.2.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.2.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.2.1,Species diversity-C1/1,1,Species diversity,single-c,Ecological
+ERA 2.2.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.2.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.2.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.2.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.2.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.2.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.2.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.2.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.2.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.2.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.2.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.2.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.2.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.2.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.2.3,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 2.2.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.2.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.2.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.2.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.2.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.2.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.2.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.2.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.2.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.2.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.2.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.2.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.2.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.2.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.2.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.2.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.2.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.2.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.2.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.2.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.2.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.2.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.3.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.3.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.3.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.3.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.3.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.3.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.3.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.3.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.3.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.3.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.3.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.3.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.3.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.3.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.3.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.3.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.3.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.3.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.3.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.3.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.3.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.3.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.3.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.3.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.3.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.3.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.3.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.3.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.3.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.3.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.3.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.3.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.3.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.3.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.3.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.3.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.3.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.3.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.3.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.3.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.3.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.3.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.3.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.3.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.3.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.3.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.3.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.3.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.3.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.3.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.3.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.3.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.3.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.3.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.3.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.3.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.3.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.3.3,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 2.3.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.3.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.3.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.3.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.3.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.3.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.3.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.3.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.3.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.3.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.3.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.3.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.3.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.3.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.3.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.3.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.3.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.3.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.3.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.3.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.3.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.3.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.4.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.4.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.4.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.4.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.4.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.4.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.4.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.4.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.4.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.4.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.4.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.4.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.4.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.4.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.4.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.4.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.4.1,Habitat diversity-C1/1,1,Habitat diversity,single-c,Ecological
+ERA 2.4.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.4.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.4.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.4.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.4.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.4.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.4.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.4.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.4.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.4.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.4.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.4.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.4.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.4.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.4.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.4.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.4.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.4.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.4.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.4.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.4.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.4.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.4.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.4.2,Habitat diversity-C1/1,1,Habitat diversity,single-c,Ecological
+ERA 2.4.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.4.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.4.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.4.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.4.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.4.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.4.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.4.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.4.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.4.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.4.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.4.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.4.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.4.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.4.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.4.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.4.3,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 2.4.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.4.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.4.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.4.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.4.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.4.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.4.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.4.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.4.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.4.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.4.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.4.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.4.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.4.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.4.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.4.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.4.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.4.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.4.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.4.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.4.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.4.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.5.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.5.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.5.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.5.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.5.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.5.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.5.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.5.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.5.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.5.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.5.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.5.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.5.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.5.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.5.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.5.1,Ecosystem connectivity-C1/1,1,Ecosystem connectivity,single-c,Ecological
+ERA 2.5.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.5.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.5.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.5.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.5.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.5.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.5.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.5.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.5.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.5.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.5.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.5.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.5.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 2.5.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.5.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.5.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.5.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.5.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.5.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.5.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.5.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.5.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.5.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.5.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.5.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.5.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.5.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.5.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.5.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.5.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.5.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.5.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 2.5.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 2.5.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 2.5.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 2.5.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 2.5.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 2.5.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 2.5.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 2.5.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 2.5.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 2.5.3,Knowledge diversity-C1/1,1,Knowledge diversity,single-c,Socio-economic
+ERA 2.5.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 2.5.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 2.5.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 2.5.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 2.5.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 2.5.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 2.5.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 2.5.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 2.5.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 2.5.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 2.5.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 2.5.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 2.5.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 2.5.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 2.5.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 2.5.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 2.5.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 2.5.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 2.5.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 2.5.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 2.5.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 2.5.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.1.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.1.1,Accountable-C2,1,Accountable,multi-c,Governance
+ERA 3.1.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.1,Efficient and effective-C1,3,Efficient and effective,multi-c,Governance
+ERA 3.1.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.1.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.1.1,Equitable and inclusive-C2,1,Equitable and inclusive,multi-c,Governance
+ERA 3.1.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.1.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.1.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.1.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.1.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.1.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.1,Transparent-C1,2,Transparent,multi-c,Governance
+ERA 3.1.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.1.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.1.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.1.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.1.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.1.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.1.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.1.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.1.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.1.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.1.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.1.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.1.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.1.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.1.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.1.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.1.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 3.1.2,Efficient and effective-C2,1,Efficient and effective,multi-c,Governance
+ERA 3.1.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.1.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.1.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.2,Knowledge diversity-C1/1,2,Knowledge diversity,single-c,Socio-economic
+ERA 3.1.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.1.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.1.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.1.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.1.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.2,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 3.1.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.1.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.1.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.1.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.1.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.1.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.1.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.1.2,Participatory-C1/1,3,Participatory,single-c,Governance
+ERA 3.1.2,Polycentric-C1/1,2,Polycentric,single-c,Governance
+ERA 3.1.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.1.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.1.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.1.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.1.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.1.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.1.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.1.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.1.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.1.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.1.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 3.1.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.1.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.1.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.1.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.1.3,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.1.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.1.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.1.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.1.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.1.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.1.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.1.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.1.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 3.1.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.1.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.1.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.1.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.1.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.1.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.1.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.1.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.1.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.1.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.1.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.1.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.1.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.1.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 3.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.2.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 3.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.2.1,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.2.1,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.2.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.2.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.2,Access to knowledge-C1,2,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.2.2,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 3.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.2.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.2,Transparent-C1,2,Transparent,multi-c,Governance
+ERA 3.2.2,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.2.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.2.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.3,Accountable-C1,0,Accountable,multi-c,Governance
+ERA 3.2.3,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.2.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.3,Efficient and effective-C1,2,Efficient and effective,multi-c,Governance
+ERA 3.2.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.2.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.3,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.2.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.2.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.2.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.2.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.2.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.3,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 3.2.3,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.2.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+ERA 3.2.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.2.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.2.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.2.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.2.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.2.3,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.2.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.2.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.2.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.2.3,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.2.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.2.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+ERA 3.2.4,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.4,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+ERA 3.2.4,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.4,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+ERA 3.2.4,Accountable-C1,1,Accountable,multi-c,Governance
+ERA 3.2.4,Accountable-C2,0,Accountable,multi-c,Governance
+ERA 3.2.4,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.4,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+ERA 3.2.4,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+ERA 3.2.4,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+ERA 3.2.4,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.4,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+ERA 3.2.4,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.4,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+ERA 3.2.4,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+ERA 3.2.4,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.4,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+ERA 3.2.4,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.4,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+ERA 3.2.4,Mobility-C1,0,Mobility,multi-c,Socio-economic
+ERA 3.2.4,Mobility-C2,0,Mobility,multi-c,Socio-economic
+ERA 3.2.4,Social capital-C1,0,Social capital,multi-c,Socio-economic
+ERA 3.2.4,Social capital-C2,0,Social capital,multi-c,Socio-economic
+ERA 3.2.4,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.4,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+ERA 3.2.4,Transparent-C1,0,Transparent,multi-c,Governance
+ERA 3.2.4,Transparent-C2,0,Transparent,multi-c,Governance
+ERA 3.2.4,Adaptive-C1/1,1,Adaptive,single-c,Governance
+ERA 3.2.4,Age structure-C1/1,0,Age structure,single-c,Ecological
+ERA 3.2.4,Agency-C1/1,0,Agency,single-c,Socio-economic
+ERA 3.2.4,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+ERA 3.2.4,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+ERA 3.2.4,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+ERA 3.2.4,Participatory-C1/1,0,Participatory,single-c,Governance
+ERA 3.2.4,Polycentric-C1/1,0,Polycentric,single-c,Governance
+ERA 3.2.4,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+ERA 3.2.4,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+ERA 3.2.4,Responsive-C1/1,0,Responsive,single-c,Governance
+ERA 3.2.4,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+ERA 3.2.4,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.1,Accountable-C1,2,Accountable,multi-c,Governance
+SRA 1.1.1,Accountable-C2,2,Accountable,multi-c,Governance
+SRA 1.1.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.1,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 1.1.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.1,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.2,Access to economic opportunity-C2,1,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.2,Accountable-C2,2,Accountable,multi-c,Governance
+SRA 1.1.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.2,Mobility-C1,2,Mobility,multi-c,Socio-economic
+SRA 1.1.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.2,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.2,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.2,Agency-C1/1,2,Agency,single-c,Socio-economic
+SRA 1.1.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.2,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.2,Wealth and reserves-C1/1,1,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.3,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.3,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.3,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.3,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.3,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.3,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 1.1.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.3,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.3,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.5,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.5,Access to economic opportunity-C2,1,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.5,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.5,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.5,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.5,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.5,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.5,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.5,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.5,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.5,Equitable and inclusive-C1,2,Equitable and inclusive,multi-c,Governance
+SRA 1.1.5,Equitable and inclusive-C2,2,Equitable and inclusive,multi-c,Governance
+SRA 1.1.5,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.5,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.5,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.5,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.5,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.5,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.5,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.5,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.5,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.5,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.5,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.5,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.5,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.5,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.5,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.5,Adaptive-C1/1,1,Adaptive,single-c,Governance
+SRA 1.1.5,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.5,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.1.5,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.5,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.5,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.5,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.5,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.5,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.5,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.5,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.5,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.5,Wealth and reserves-C1/1,2,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.6,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.6,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.6,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.6,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.6,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.6,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.6,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.6,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.6,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.6,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.6,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.6,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.6,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.6,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.6,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.6,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.6,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.6,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.6,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.6,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.6,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.6,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.6,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.6,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.6,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.6,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.6,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.6,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.6,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.6,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.1.6,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.6,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.6,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.6,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.6,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.6,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.6,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.6,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.6,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.6,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.7,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.7,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.7,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.7,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.7,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.7,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.7,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.7,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.7,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.7,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.7,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.7,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.7,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.7,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.7,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.7,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.7,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.7,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.7,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.7,Mobility-C1,1,Mobility,multi-c,Socio-economic
+SRA 1.1.7,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.7,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.7,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.7,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.7,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.7,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.7,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.7,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.7,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.7,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 1.1.7,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.7,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.7,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.7,Participatory-C1/1,1,Participatory,single-c,Governance
+SRA 1.1.7,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.7,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.7,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.7,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.7,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.7,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.8,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.8,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.8,Access to knowledge-C1,1,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.8,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.8,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.8,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.8,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.8,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.8,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.8,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.8,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.8,Equitable and inclusive-C2,2,Equitable and inclusive,multi-c,Governance
+SRA 1.1.8,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.8,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.8,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.8,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.8,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.8,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.8,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.8,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.8,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.8,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.8,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.8,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.8,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.8,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.8,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.8,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.8,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.8,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.1.8,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.8,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.8,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.8,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.8,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.8,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.8,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.8,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.8,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.8,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.9,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.9,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.9,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.9,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.9,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.9,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.9,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.9,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.9,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.9,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.9,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.9,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.9,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.9,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.9,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.9,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.9,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.9,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.9,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.9,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.9,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.9,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.1.9,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.9,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.9,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.9,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.9,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.9,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.9,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.9,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.1.9,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.9,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.9,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.9,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.9,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.9,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.9,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.9,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.9,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.9,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.2.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.2.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.2.1,Participatory-C1/1,3,Participatory,single-c,Governance
+SRA 1.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.2.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.2.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.2.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.2.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.2.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.2.2,Accountable-C2,2,Accountable,multi-c,Governance
+SRA 1.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.2.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.2.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 1.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.2.2,Transparent-C1,2,Transparent,multi-c,Governance
+SRA 1.2.2,Transparent-C2,3,Transparent,multi-c,Governance
+SRA 1.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.2.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 1.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 2.1.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.1.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.1.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.1.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.1.1,Accountable-C1,3,Accountable,multi-c,Governance
+SRA 2.1.1,Accountable-C2,3,Accountable,multi-c,Governance
+SRA 2.1.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 2.1.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 2.1.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 2.1.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 2.1.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 2.1.1,Equitable and inclusive-C2,2,Equitable and inclusive,multi-c,Governance
+SRA 2.1.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.1.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.1.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 2.1.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 2.1.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 2.1.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 2.1.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 2.1.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 2.1.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 2.1.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 2.1.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 2.1.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 2.1.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 2.1.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 2.1.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 2.1.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 2.1.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 2.1.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 2.1.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 2.1.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 2.1.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 2.1.1,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 2.1.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 2.1.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 2.1.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 2.1.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 2.1.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 2.1.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 2.1.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.1.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.1.2,Access to knowledge-C1,1,Access to knowledge,multi-c,Socio-economic
+SRA 2.1.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.1.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 2.1.2,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 2.1.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 2.1.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 2.1.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 2.1.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 2.1.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 2.1.2,Equitable and inclusive-C2,2,Equitable and inclusive,multi-c,Governance
+SRA 2.1.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.1.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.1.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 2.1.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 2.1.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 2.1.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 2.1.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 2.1.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 2.1.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 2.1.2,Social capital-C1,1,Social capital,multi-c,Socio-economic
+SRA 2.1.2,Social capital-C2,2,Social capital,multi-c,Socio-economic
+SRA 2.1.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 2.1.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 2.1.2,Transparent-C1,2,Transparent,multi-c,Governance
+SRA 2.1.2,Transparent-C2,2,Transparent,multi-c,Governance
+SRA 2.1.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 2.1.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 2.1.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 2.1.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 2.1.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 2.1.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 2.1.2,Participatory-C1/1,3,Participatory,single-c,Governance
+SRA 2.1.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 2.1.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 2.1.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 2.1.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 2.1.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 2.1.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 2.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.2.1,Access to economic opportunity-C2,2,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 2.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 2.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 2.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 2.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 2.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 2.2.1,Equitable and inclusive-C1,2,Equitable and inclusive,multi-c,Governance
+SRA 2.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 2.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 2.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 2.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 2.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 2.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 2.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 2.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 2.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 2.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 2.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 2.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 2.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 2.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 2.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 2.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 2.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 2.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 2.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 2.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 2.2.1,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 2.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 2.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 2.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 2.2.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 2.2.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 2.2.1,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 2.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.2.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 2.2.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 2.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 2.2.2,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 2.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 2.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 2.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 2.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 2.2.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 2.2.2,Equitable and inclusive-C2,2,Equitable and inclusive,multi-c,Governance
+SRA 2.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 2.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 2.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 2.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 2.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 2.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 2.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 2.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 2.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 2.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 2.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 2.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 2.2.2,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 2.2.2,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 2.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 2.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 2.2.2,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 2.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 2.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 2.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 2.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 2.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 2.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 2.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 2.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 2.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 2.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 3.1.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.1,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.1,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.1.1,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.1.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.1.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.1.1,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.1.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.1.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.1.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.1.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.1.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.1.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.1.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.1.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.1.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.1.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.1.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.1.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.1.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.1.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.1.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.1.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.1.1,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.1.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.1.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.1.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.1.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.1.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.1.1,Wealth and reserves-C1/1,1,Wealth and reserves,single-c,Socio-economic
+SRA 3.1.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.2,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.1.2,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.1.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.1.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.1.2,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.1.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.1.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.1.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.1.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.1.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.1.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.1.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.1.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.1.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.2,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.1.2,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.1.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.1.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.1.2,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 3.1.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.1.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.1.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.1.2,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.1.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.1.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.1.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.1.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.1.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.1.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 3.1.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.1.3,Access to knowledge-C1,2,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.3,Access to knowledge-C2,1,Access to knowledge,multi-c,Socio-economic
+SRA 3.1.3,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.1.3,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.1.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.1.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.1.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.1.3,Equitable and inclusive-C1,1,Equitable and inclusive,multi-c,Governance
+SRA 3.1.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.1.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.1.3,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.1.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.1.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.1.3,Learning capacity-C2,1,Learning capacity,multi-c,Socio-economic
+SRA 3.1.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.1.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.1.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.1.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.1.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.1.3,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.1.3,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.1.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.1.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.1.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.1.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.1.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.1.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.1.3,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.1.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.1.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.1.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.1.3,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.1.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.1.3,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.1,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.1,Access to economic opportunity-C2,2,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.1,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.1,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.1,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.1,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.1,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.1,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.1,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.1,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.1,Equitable and inclusive-C1,2,Equitable and inclusive,multi-c,Governance
+SRA 3.2.1,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.1,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.1,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.1,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.1,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.1,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.1,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.1,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.1,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.1,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.1,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.1,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.1,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.1,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.1,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.1,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.1,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.1,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.1,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.2.1,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.1,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.1,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.1,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.1,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.1,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.1,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.1,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.1,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.1,Wealth and reserves-C1/1,2,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.2,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.2,Access to economic opportunity-C2,1,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.2,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.2,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.2,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.2,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.2,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.2,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.2,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.2,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.2,Equitable and inclusive-C1,1,Equitable and inclusive,multi-c,Governance
+SRA 3.2.2,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.2,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.2,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.2,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.2,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.2,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.2,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.2,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.2,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.2,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.2,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.2,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.2,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.2,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.2,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.2,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.2,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.2,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.2,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.2.2,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.2,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.2,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.2,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.2,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.2,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.2,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.2,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.2,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.2,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.3,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.3,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.3,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.3,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.3,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.3,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.3,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.3,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.3,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.3,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.3,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.3,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.3,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.3,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.3,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.3,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.3,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.3,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.3,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.3,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.3,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.3,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.3,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.3,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.3,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.3,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.3,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.3,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.3,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.3,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.2.3,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.3,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.3,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.3,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.3,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.3,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.3,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.3,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.3,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.3,Wealth and reserves-C1/1,1,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.4,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.4,Access to economic opportunity-C2,2,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.4,Access to knowledge-C1,1,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.4,Access to knowledge-C2,1,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.4,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.4,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.4,Economic diversity-C1,1,Economic diversity,multi-c,Socio-economic
+SRA 3.2.4,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.4,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.4,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.4,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.4,Equitable and inclusive-C2,1,Equitable and inclusive,multi-c,Governance
+SRA 3.2.4,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.4,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.4,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.4,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.4,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.4,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.4,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.4,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.4,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.4,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.4,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.4,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.4,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.4,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.4,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.4,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.4,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.4,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 3.2.4,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.4,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.4,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.4,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.4,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.4,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.4,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.4,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.4,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.4,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.5,Access to economic opportunity-C1,3,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.5,Access to economic opportunity-C2,2,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.5,Access to knowledge-C1,1,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.5,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.5,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.5,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.5,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.5,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.5,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.5,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.5,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.5,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.5,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.5,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.5,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.5,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.5,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.5,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.5,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.5,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.5,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.5,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.5,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.5,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.5,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.5,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.5,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.5,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.5,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.5,Agency-C1/1,1,Agency,single-c,Socio-economic
+SRA 3.2.5,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.5,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.5,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.5,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.5,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.5,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.5,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.5,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.5,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.5,Wealth and reserves-C1/1,1,Wealth and reserves,single-c,Socio-economic
+SRA 3.2.6,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.6,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 3.2.6,Access to knowledge-C1,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.6,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 3.2.6,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 3.2.6,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 3.2.6,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.6,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 3.2.6,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 3.2.6,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 3.2.6,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.6,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 3.2.6,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.6,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 3.2.6,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 3.2.6,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.6,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 3.2.6,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.6,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 3.2.6,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 3.2.6,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 3.2.6,Social capital-C1,0,Social capital,multi-c,Socio-economic
+SRA 3.2.6,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 3.2.6,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.6,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 3.2.6,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 3.2.6,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 3.2.6,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 3.2.6,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 3.2.6,Agency-C1/1,0,Agency,single-c,Socio-economic
+SRA 3.2.6,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 3.2.6,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 3.2.6,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 3.2.6,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 3.2.6,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 3.2.6,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 3.2.6,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 3.2.6,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 3.2.6,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 3.2.6,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic
+SRA 1.1.4,Access to economic opportunity-C1,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.4,Access to economic opportunity-C2,0,Access to economic opportunity,multi-c,Socio-economic
+SRA 1.1.4,Access to knowledge-C1,2,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.4,Access to knowledge-C2,0,Access to knowledge,multi-c,Socio-economic
+SRA 1.1.4,Accountable-C1,0,Accountable,multi-c,Governance
+SRA 1.1.4,Accountable-C2,0,Accountable,multi-c,Governance
+SRA 1.1.4,Economic diversity-C1,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.4,Economic diversity-C2,0,Economic diversity,multi-c,Socio-economic
+SRA 1.1.4,Efficient and effective-C1,0,Efficient and effective,multi-c,Governance
+SRA 1.1.4,Efficient and effective-C2,0,Efficient and effective,multi-c,Governance
+SRA 1.1.4,Equitable and inclusive-C1,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.4,Equitable and inclusive-C2,0,Equitable and inclusive,multi-c,Governance
+SRA 1.1.4,Flexible and agile infrastructure-C1,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.4,Flexible and agile infrastructure-C2,0,Flexible and agile infrastructure,multi-c,Socio-economic
+SRA 1.1.4,Knowledge diversity-C1/1,0,Knowledge diversity,single-c,Socio-economic
+SRA 1.1.4,Leadership and initiative-C1,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.4,Leadership and initiative-C2,0,Leadership and initiative,multi-c,Governance
+SRA 1.1.4,Learning capacity-C1,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.4,Learning capacity-C2,0,Learning capacity,multi-c,Socio-economic
+SRA 1.1.4,Mobility-C1,0,Mobility,multi-c,Socio-economic
+SRA 1.1.4,Mobility-C2,0,Mobility,multi-c,Socio-economic
+SRA 1.1.4,Social capital-C1,1,Social capital,multi-c,Socio-economic
+SRA 1.1.4,Social capital-C2,0,Social capital,multi-c,Socio-economic
+SRA 1.1.4,Technology transfer-C1,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.4,Technology transfer-C2,0,Technology transfer,multi-c,Socio-economic
+SRA 1.1.4,Transparent-C1,0,Transparent,multi-c,Governance
+SRA 1.1.4,Transparent-C2,0,Transparent,multi-c,Governance
+SRA 1.1.4,Adaptive-C1/1,0,Adaptive,single-c,Governance
+SRA 1.1.4,Age structure-C1/1,0,Age structure,single-c,Ecological
+SRA 1.1.4,Agency-C1/1,2,Agency,single-c,Socio-economic
+SRA 1.1.4,Cross-scale integration-C1/1,0,Cross-scale integration,single-c,Governance
+SRA 1.1.4,Ecosystem connectivity-C1/1,0,Ecosystem connectivity,single-c,Ecological
+SRA 1.1.4,Habitat diversity-C1/1,0,Habitat diversity,single-c,Ecological
+SRA 1.1.4,Participatory-C1/1,0,Participatory,single-c,Governance
+SRA 1.1.4,Polycentric-C1/1,0,Polycentric,single-c,Governance
+SRA 1.1.4,Population abundance-C1/1,0,Population abundance,single-c,Ecological
+SRA 1.1.4,Resilience mindset-C1/1,0,Resilience mindset,single-c,Socio-economic
+SRA 1.1.4,Responsive-C1/1,0,Responsive,single-c,Governance
+SRA 1.1.4,Species diversity-C1/1,0,Species diversity,single-c,Ecological
+SRA 1.1.4,Wealth and reserves-C1/1,0,Wealth and reserves,single-c,Socio-economic

@@ -1,0 +1,1324 @@
+indicator_code,attribute,attribute_complexity,attribute_dimension,indicator_attribute_score,assessment_c,assessment_principle,assessment,principle,indicator
+ERA 1.1.1,Knowledge diversity,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Adaptive,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Age structure,single-c,Ecological,2,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Agency,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Cross-scale integration,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Ecosystem connectivity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Habitat diversity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Participatory,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Polycentric,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Population abundance,single-c,Ecological,3,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Resilience mindset,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Responsive,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Species diversity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Wealth and reserves,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.2,Knowledge diversity,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Adaptive,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Age structure,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Agency,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Cross-scale integration,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Ecosystem connectivity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Habitat diversity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Participatory,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Polycentric,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Population abundance,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Resilience mindset,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Responsive,single-c,Governance,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Species diversity,single-c,Ecological,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Wealth and reserves,single-c,Socio-economic,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.2.1,Knowledge diversity,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Adaptive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Age structure,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Agency,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Cross-scale integration,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Ecosystem connectivity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Habitat diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Participatory,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Polycentric,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Population abundance,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Resilience mindset,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Responsive,single-c,Governance,1,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Species diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Wealth and reserves,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.2,Knowledge diversity,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Adaptive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Age structure,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Agency,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Cross-scale integration,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Ecosystem connectivity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Habitat diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Participatory,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Polycentric,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Population abundance,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Resilience mindset,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Responsive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Species diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Wealth and reserves,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.3,Knowledge diversity,single-c,Socio-economic,1,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Adaptive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Age structure,single-c,Ecological,1,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Agency,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Cross-scale integration,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Ecosystem connectivity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Habitat diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Participatory,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Polycentric,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Population abundance,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Resilience mindset,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Responsive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Species diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Wealth and reserves,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.4,Knowledge diversity,single-c,Socio-economic,1,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Adaptive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Age structure,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Agency,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Cross-scale integration,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Ecosystem connectivity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Habitat diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Participatory,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Polycentric,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Population abundance,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Resilience mindset,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Responsive,single-c,Governance,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Species diversity,single-c,Ecological,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Wealth and reserves,single-c,Socio-economic,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 2.2.1,Knowledge diversity,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Adaptive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Age structure,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Agency,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Cross-scale integration,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Ecosystem connectivity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Habitat diversity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Participatory,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Polycentric,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Population abundance,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Resilience mindset,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Responsive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Species diversity,single-c,Ecological,1,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Wealth and reserves,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.2,Knowledge diversity,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Adaptive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Age structure,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Agency,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Cross-scale integration,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Ecosystem connectivity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Habitat diversity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Participatory,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Polycentric,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Population abundance,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Resilience mindset,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Responsive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Species diversity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Wealth and reserves,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.3,Knowledge diversity,single-c,Socio-economic,1,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Adaptive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Age structure,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Agency,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Cross-scale integration,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Ecosystem connectivity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Habitat diversity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Participatory,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Polycentric,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Population abundance,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Resilience mindset,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Responsive,single-c,Governance,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Species diversity,single-c,Ecological,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Wealth and reserves,single-c,Socio-economic,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.3.1,Knowledge diversity,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Adaptive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Age structure,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Agency,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Cross-scale integration,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Ecosystem connectivity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Habitat diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Participatory,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Polycentric,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Population abundance,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Resilience mindset,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Responsive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Species diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Wealth and reserves,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.2,Knowledge diversity,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Adaptive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Age structure,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Agency,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Cross-scale integration,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Ecosystem connectivity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Habitat diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Participatory,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Polycentric,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Population abundance,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Resilience mindset,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Responsive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Species diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Wealth and reserves,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.3,Knowledge diversity,single-c,Socio-economic,1,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Adaptive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Age structure,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Agency,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Cross-scale integration,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Ecosystem connectivity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Habitat diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Participatory,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Polycentric,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Population abundance,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Resilience mindset,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Responsive,single-c,Governance,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Species diversity,single-c,Ecological,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Wealth and reserves,single-c,Socio-economic,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.4.1,Knowledge diversity,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Adaptive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Age structure,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Agency,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Cross-scale integration,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Ecosystem connectivity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Habitat diversity,single-c,Ecological,1,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Participatory,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Polycentric,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Population abundance,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Resilience mindset,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Responsive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Species diversity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Wealth and reserves,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.2,Knowledge diversity,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Adaptive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Age structure,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Agency,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Cross-scale integration,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Ecosystem connectivity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Habitat diversity,single-c,Ecological,1,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Participatory,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Polycentric,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Population abundance,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Resilience mindset,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Responsive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Species diversity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Wealth and reserves,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.3,Knowledge diversity,single-c,Socio-economic,1,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Adaptive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Age structure,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Agency,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Cross-scale integration,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Ecosystem connectivity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Habitat diversity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Participatory,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Polycentric,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Population abundance,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Resilience mindset,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Responsive,single-c,Governance,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Species diversity,single-c,Ecological,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Wealth and reserves,single-c,Socio-economic,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.5.1,Knowledge diversity,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Adaptive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Age structure,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Agency,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Cross-scale integration,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Ecosystem connectivity,single-c,Ecological,1,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Habitat diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Participatory,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Polycentric,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Population abundance,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Resilience mindset,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Responsive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Species diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Wealth and reserves,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.2,Knowledge diversity,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Adaptive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Age structure,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Agency,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Cross-scale integration,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Ecosystem connectivity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Habitat diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Participatory,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Polycentric,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Population abundance,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Resilience mindset,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Responsive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Species diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Wealth and reserves,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.3,Knowledge diversity,single-c,Socio-economic,1,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Adaptive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Age structure,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Agency,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Cross-scale integration,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Ecosystem connectivity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Habitat diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Participatory,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Polycentric,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Population abundance,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Resilience mindset,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Responsive,single-c,Governance,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Species diversity,single-c,Ecological,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Wealth and reserves,single-c,Socio-economic,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 3.1.1,Knowledge diversity,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Adaptive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Age structure,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Agency,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Cross-scale integration,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Ecosystem connectivity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Habitat diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Participatory,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Polycentric,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Population abundance,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Resilience mindset,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Responsive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Species diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Wealth and reserves,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.2,Knowledge diversity,single-c,Socio-economic,2,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Adaptive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Age structure,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Agency,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Cross-scale integration,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Ecosystem connectivity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Habitat diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Participatory,single-c,Governance,3,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Polycentric,single-c,Governance,2,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Population abundance,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Resilience mindset,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Responsive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Species diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Wealth and reserves,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.3,Knowledge diversity,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Adaptive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Age structure,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Agency,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Cross-scale integration,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Ecosystem connectivity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Habitat diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Participatory,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Polycentric,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Population abundance,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Resilience mindset,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Responsive,single-c,Governance,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Species diversity,single-c,Ecological,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Wealth and reserves,single-c,Socio-economic,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.2.1,Knowledge diversity,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Adaptive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Age structure,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Agency,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Cross-scale integration,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Ecosystem connectivity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Habitat diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Participatory,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Polycentric,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Population abundance,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Resilience mindset,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Responsive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Species diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Wealth and reserves,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.2,Knowledge diversity,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Adaptive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Age structure,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Agency,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Cross-scale integration,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Ecosystem connectivity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Habitat diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Participatory,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Polycentric,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Population abundance,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Resilience mindset,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Responsive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Species diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Wealth and reserves,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.3,Knowledge diversity,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Adaptive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Age structure,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Agency,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Cross-scale integration,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Ecosystem connectivity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Habitat diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Participatory,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Polycentric,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Population abundance,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Resilience mindset,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Responsive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Species diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Wealth and reserves,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.4,Knowledge diversity,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Adaptive,single-c,Governance,1,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Age structure,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Agency,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Cross-scale integration,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Ecosystem connectivity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Habitat diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Participatory,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Polycentric,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Population abundance,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Resilience mindset,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Responsive,single-c,Governance,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Species diversity,single-c,Ecological,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Wealth and reserves,single-c,Socio-economic,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+SRA 1.1.1,Knowledge diversity,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Adaptive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Age structure,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Agency,single-c,Socio-economic,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Cross-scale integration,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Ecosystem connectivity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Habitat diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Participatory,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Polycentric,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Population abundance,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Resilience mindset,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Responsive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Species diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Wealth and reserves,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.2,Knowledge diversity,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Adaptive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Age structure,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Agency,single-c,Socio-economic,2,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Cross-scale integration,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Ecosystem connectivity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Habitat diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Participatory,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Polycentric,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Population abundance,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Resilience mindset,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Responsive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Species diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Wealth and reserves,single-c,Socio-economic,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.3,Knowledge diversity,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Adaptive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Age structure,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Agency,single-c,Socio-economic,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Cross-scale integration,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Ecosystem connectivity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Habitat diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Participatory,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Polycentric,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Population abundance,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Resilience mindset,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Responsive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Species diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Wealth and reserves,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.5,Knowledge diversity,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Adaptive,single-c,Governance,1,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Age structure,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Agency,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Cross-scale integration,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Ecosystem connectivity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Habitat diversity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Participatory,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Polycentric,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Population abundance,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Resilience mindset,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Responsive,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Species diversity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Wealth and reserves,single-c,Socio-economic,2,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.6,Knowledge diversity,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Adaptive,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Age structure,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Agency,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Cross-scale integration,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Ecosystem connectivity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Habitat diversity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Participatory,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Polycentric,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Population abundance,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Resilience mindset,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Responsive,single-c,Governance,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Species diversity,single-c,Ecological,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Wealth and reserves,single-c,Socio-economic,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.7,Knowledge diversity,single-c,Socio-economic,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Adaptive,single-c,Governance,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Age structure,single-c,Ecological,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Agency,single-c,Socio-economic,1,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Cross-scale integration,single-c,Governance,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Ecosystem connectivity,single-c,Ecological,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Habitat diversity,single-c,Ecological,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Participatory,single-c,Governance,1,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Polycentric,single-c,Governance,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Population abundance,single-c,Ecological,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Resilience mindset,single-c,Socio-economic,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Responsive,single-c,Governance,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Species diversity,single-c,Ecological,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Wealth and reserves,single-c,Socio-economic,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.8,Knowledge diversity,single-c,Socio-economic,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Adaptive,single-c,Governance,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Age structure,single-c,Ecological,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Agency,single-c,Socio-economic,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Cross-scale integration,single-c,Governance,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Ecosystem connectivity,single-c,Ecological,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Habitat diversity,single-c,Ecological,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Participatory,single-c,Governance,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Polycentric,single-c,Governance,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Population abundance,single-c,Ecological,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Resilience mindset,single-c,Socio-economic,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Responsive,single-c,Governance,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Species diversity,single-c,Ecological,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Wealth and reserves,single-c,Socio-economic,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.9,Knowledge diversity,single-c,Socio-economic,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Adaptive,single-c,Governance,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Age structure,single-c,Ecological,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Agency,single-c,Socio-economic,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Cross-scale integration,single-c,Governance,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Ecosystem connectivity,single-c,Ecological,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Habitat diversity,single-c,Ecological,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Participatory,single-c,Governance,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Polycentric,single-c,Governance,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Population abundance,single-c,Ecological,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Resilience mindset,single-c,Socio-economic,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Responsive,single-c,Governance,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Species diversity,single-c,Ecological,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Wealth and reserves,single-c,Socio-economic,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.2.1,Knowledge diversity,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Adaptive,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Age structure,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Agency,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Cross-scale integration,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Ecosystem connectivity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Habitat diversity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Participatory,single-c,Governance,3,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Polycentric,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Population abundance,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Resilience mindset,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Responsive,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Species diversity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Wealth and reserves,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.2,Knowledge diversity,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Adaptive,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Age structure,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Agency,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Cross-scale integration,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Ecosystem connectivity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Habitat diversity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Participatory,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Polycentric,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Population abundance,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Resilience mindset,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Responsive,single-c,Governance,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Species diversity,single-c,Ecological,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Wealth and reserves,single-c,Socio-economic,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 2.1.1,Knowledge diversity,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Adaptive,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Age structure,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Agency,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Cross-scale integration,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Ecosystem connectivity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Habitat diversity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Participatory,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Polycentric,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Population abundance,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Resilience mindset,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Responsive,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Species diversity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Wealth and reserves,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.2,Knowledge diversity,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Adaptive,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Age structure,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Agency,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Cross-scale integration,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Ecosystem connectivity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Habitat diversity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Participatory,single-c,Governance,3,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Polycentric,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Population abundance,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Resilience mindset,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Responsive,single-c,Governance,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Species diversity,single-c,Ecological,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Wealth and reserves,single-c,Socio-economic,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.2.1,Knowledge diversity,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Adaptive,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Age structure,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Agency,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Cross-scale integration,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Ecosystem connectivity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Habitat diversity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Participatory,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Polycentric,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Population abundance,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Resilience mindset,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Responsive,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Species diversity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Wealth and reserves,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.2,Knowledge diversity,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Adaptive,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Age structure,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Agency,single-c,Socio-economic,1,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Cross-scale integration,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Ecosystem connectivity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Habitat diversity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Participatory,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Polycentric,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Population abundance,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Resilience mindset,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Responsive,single-c,Governance,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Species diversity,single-c,Ecological,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Wealth and reserves,single-c,Socio-economic,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 3.1.1,Knowledge diversity,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Adaptive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Age structure,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Agency,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Cross-scale integration,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Ecosystem connectivity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Habitat diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Participatory,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Polycentric,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Population abundance,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Resilience mindset,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Responsive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Species diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Wealth and reserves,single-c,Socio-economic,1,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.2,Knowledge diversity,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Adaptive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Age structure,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Agency,single-c,Socio-economic,1,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Cross-scale integration,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Ecosystem connectivity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Habitat diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Participatory,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Polycentric,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Population abundance,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Resilience mindset,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Responsive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Species diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Wealth and reserves,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.3,Knowledge diversity,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Adaptive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Age structure,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Agency,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Cross-scale integration,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Ecosystem connectivity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Habitat diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Participatory,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Polycentric,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Population abundance,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Resilience mindset,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Responsive,single-c,Governance,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Species diversity,single-c,Ecological,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Wealth and reserves,single-c,Socio-economic,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.2.1,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Agency,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Wealth and reserves,single-c,Socio-economic,2,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.2,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Agency,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Wealth and reserves,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.3,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Agency,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Wealth and reserves,single-c,Socio-economic,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.4,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Agency,single-c,Socio-economic,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Wealth and reserves,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.5,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Agency,single-c,Socio-economic,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Wealth and reserves,single-c,Socio-economic,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.6,Knowledge diversity,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Adaptive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Age structure,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Agency,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Cross-scale integration,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Ecosystem connectivity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Habitat diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Participatory,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Polycentric,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Population abundance,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Resilience mindset,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Responsive,single-c,Governance,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Species diversity,single-c,Ecological,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Wealth and reserves,single-c,Socio-economic,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 1.1.4,Knowledge diversity,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Adaptive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Age structure,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Agency,single-c,Socio-economic,2,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Cross-scale integration,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Ecosystem connectivity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Habitat diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Participatory,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Polycentric,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Population abundance,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Resilience mindset,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Responsive,single-c,Governance,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Species diversity,single-c,Ecological,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Wealth and reserves,single-c,Socio-economic,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+ERA 1.1.1,Access to economic opportunity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Access to knowledge,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Accountable,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Economic diversity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Efficient and effective,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Equitable and inclusive,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Flexible and agile infrastructure,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Leadership and initiative,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Learning capacity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Mobility,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Social capital,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Technology transfer,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.1,Transparent,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock status outcome
+ERA 1.1.2,Access to economic opportunity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Access to knowledge,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Accountable,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Economic diversity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Efficient and effective,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Equitable and inclusive,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Flexible and agile infrastructure,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Leadership and initiative,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Learning capacity,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Mobility,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Social capital,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Technology transfer,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.1.2,Transparent,NA,NA,0,Outcome,ERA_P1,ERA,Sustainable fish stocks,Stock rebuilding outcome
+ERA 1.2.1,Access to economic opportunity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Access to knowledge,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Accountable,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Economic diversity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Efficient and effective,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Equitable and inclusive,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Flexible and agile infrastructure,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Leadership and initiative,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Learning capacity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Mobility,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Social capital,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Technology transfer,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.1,Transparent,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest strategy
+ERA 1.2.2,Access to economic opportunity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Access to knowledge,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Accountable,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Economic diversity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Efficient and effective,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Equitable and inclusive,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Flexible and agile infrastructure,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Leadership and initiative,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Learning capacity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Mobility,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Social capital,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Technology transfer,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.2,Transparent,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Harvest control rules
+ERA 1.2.3,Access to economic opportunity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Access to knowledge,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Accountable,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Economic diversity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Efficient and effective,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Equitable and inclusive,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Flexible and agile infrastructure,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Leadership and initiative,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Learning capacity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Mobility,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Social capital,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Technology transfer,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.3,Transparent,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Information and monitoring
+ERA 1.2.4,Access to economic opportunity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Access to knowledge,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Accountable,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Economic diversity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Efficient and effective,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Equitable and inclusive,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Flexible and agile infrastructure,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Leadership and initiative,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Learning capacity,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Mobility,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Social capital,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Technology transfer,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 1.2.4,Transparent,NA,NA,0,Management,ERA_P1,ERA,Sustainable fish stocks,Assessment of stock status
+ERA 2.2.1,Access to economic opportunity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Access to knowledge,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Accountable,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Economic diversity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Efficient and effective,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Equitable and inclusive,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Flexible and agile infrastructure,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Leadership and initiative,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Learning capacity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Mobility,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Social capital,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Technology transfer,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.1,Transparent,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species outcome
+ERA 2.2.2,Access to economic opportunity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Access to knowledge,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Accountable,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Economic diversity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Efficient and effective,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Equitable and inclusive,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Flexible and agile infrastructure,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Leadership and initiative,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Learning capacity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Mobility,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Social capital,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Technology transfer,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.2,Transparent,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species management
+ERA 2.2.3,Access to economic opportunity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Access to knowledge,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Accountable,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Economic diversity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Efficient and effective,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Equitable and inclusive,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Flexible and agile infrastructure,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Leadership and initiative,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Learning capacity,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Mobility,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Social capital,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Technology transfer,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.2.3,Transparent,NA,NA,0,Other species,ERA_P2,ERA,Minimising impacts,Other species information
+ERA 2.3.1,Access to economic opportunity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Access to knowledge,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Accountable,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Economic diversity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Efficient and effective,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Equitable and inclusive,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Flexible and agile infrastructure,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Leadership and initiative,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Learning capacity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Mobility,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Social capital,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Technology transfer,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.1,Transparent,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species outcome
+ERA 2.3.2,Access to economic opportunity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Access to knowledge,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Accountable,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Economic diversity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Efficient and effective,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Equitable and inclusive,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Flexible and agile infrastructure,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Leadership and initiative,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Learning capacity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Mobility,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Social capital,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Technology transfer,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.2,Transparent,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species management
+ERA 2.3.3,Access to economic opportunity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Access to knowledge,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Accountable,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Economic diversity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Efficient and effective,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Equitable and inclusive,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Flexible and agile infrastructure,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Leadership and initiative,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Learning capacity,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Mobility,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Social capital,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Technology transfer,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.3.3,Transparent,NA,NA,0,ETP species,ERA_P2,ERA,Minimising impacts,ETP species information
+ERA 2.4.1,Access to economic opportunity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Access to knowledge,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Accountable,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Economic diversity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Efficient and effective,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Equitable and inclusive,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Flexible and agile infrastructure,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Leadership and initiative,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Learning capacity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Mobility,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Social capital,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Technology transfer,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.1,Transparent,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats outcome
+ERA 2.4.2,Access to economic opportunity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Access to knowledge,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Accountable,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Economic diversity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Efficient and effective,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Equitable and inclusive,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Flexible and agile infrastructure,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Leadership and initiative,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Learning capacity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Mobility,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Social capital,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Technology transfer,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.2,Transparent,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats management
+ERA 2.4.3,Access to economic opportunity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Access to knowledge,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Accountable,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Economic diversity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Efficient and effective,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Equitable and inclusive,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Flexible and agile infrastructure,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Leadership and initiative,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Learning capacity,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Mobility,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Social capital,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Technology transfer,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.4.3,Transparent,NA,NA,0,Habitats,ERA_P2,ERA,Minimising impacts,Habitats information
+ERA 2.5.1,Access to economic opportunity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Access to knowledge,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Accountable,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Economic diversity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Efficient and effective,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Equitable and inclusive,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Flexible and agile infrastructure,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Leadership and initiative,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Learning capacity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Mobility,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Social capital,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Technology transfer,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.1,Transparent,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem outcome
+ERA 2.5.2,Access to economic opportunity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Access to knowledge,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Accountable,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Economic diversity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Efficient and effective,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Equitable and inclusive,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Flexible and agile infrastructure,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Leadership and initiative,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Learning capacity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Mobility,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Social capital,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Technology transfer,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.2,Transparent,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem management
+ERA 2.5.3,Access to economic opportunity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Access to knowledge,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Accountable,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Economic diversity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Efficient and effective,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Equitable and inclusive,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Flexible and agile infrastructure,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Leadership and initiative,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Learning capacity,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Mobility,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Social capital,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Technology transfer,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 2.5.3,Transparent,NA,NA,0,Ecosystem,ERA_P2,ERA,Minimising impacts,Ecosystem information
+ERA 3.1.1,Access to economic opportunity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Access to knowledge,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Accountable,NA,NA,1,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Economic diversity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Efficient and effective,NA,NA,2,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Equitable and inclusive,NA,NA,1,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Flexible and agile infrastructure,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Leadership and initiative,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Learning capacity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Mobility,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Social capital,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Technology transfer,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.1,Transparent,NA,NA,1,Governance & policy,ERA_P3,ERA,Effective fisheries management,Legal and/or customary framework
+ERA 3.1.2,Access to economic opportunity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Access to knowledge,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Accountable,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Economic diversity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Efficient and effective,NA,NA,1,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Equitable and inclusive,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Flexible and agile infrastructure,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Leadership and initiative,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Learning capacity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Mobility,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Social capital,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Technology transfer,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.2,Transparent,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,"Consultation, roles, and responsibilities"
+ERA 3.1.3,Access to economic opportunity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Access to knowledge,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Accountable,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Economic diversity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Efficient and effective,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Equitable and inclusive,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Flexible and agile infrastructure,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Leadership and initiative,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Learning capacity,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Mobility,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Social capital,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Technology transfer,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.1.3,Transparent,NA,NA,0,Governance & policy,ERA_P3,ERA,Effective fisheries management,Long term objectives
+ERA 3.2.1,Access to economic opportunity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Access to knowledge,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Accountable,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Economic diversity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Efficient and effective,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Equitable and inclusive,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Flexible and agile infrastructure,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Leadership and initiative,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Learning capacity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Mobility,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Social capital,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Technology transfer,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.1,Transparent,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Fishery-specific objectives
+ERA 3.2.2,Access to economic opportunity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Access to knowledge,NA,NA,1,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Accountable,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Economic diversity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Efficient and effective,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Equitable and inclusive,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Flexible and agile infrastructure,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Leadership and initiative,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Learning capacity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Mobility,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Social capital,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Technology transfer,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.2,Transparent,NA,NA,1,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Decision-making processes
+ERA 3.2.3,Access to economic opportunity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Access to knowledge,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Accountable,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Economic diversity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Efficient and effective,NA,NA,1,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Equitable and inclusive,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Flexible and agile infrastructure,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Leadership and initiative,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Learning capacity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Mobility,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Social capital,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Technology transfer,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.3,Transparent,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,Compliance and enforcement
+ERA 3.2.4,Access to economic opportunity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Access to knowledge,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Accountable,NA,NA,1,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Economic diversity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Efficient and effective,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Equitable and inclusive,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Flexible and agile infrastructure,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Leadership and initiative,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Learning capacity,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Mobility,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Social capital,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Technology transfer,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+ERA 3.2.4,Transparent,NA,NA,0,Fishery specific management system,ERA_P3,ERA,Effective fisheries management,"Monitoring, management, performance evaluation"
+SRA 1.1.1,Access to economic opportunity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Access to knowledge,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Accountable,NA,NA,2,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Economic diversity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Efficient and effective,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Equitable and inclusive,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Flexible and agile infrastructure,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Leadership and initiative,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Learning capacity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Mobility,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Social capital,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Technology transfer,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.1,Transparent,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Abuse and harassment
+SRA 1.1.2,Access to economic opportunity,NA,NA,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Access to knowledge,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Accountable,NA,NA,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Economic diversity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Efficient and effective,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Equitable and inclusive,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Flexible and agile infrastructure,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Leadership and initiative,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Learning capacity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Mobility,NA,NA,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Social capital,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Technology transfer,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.2,Transparent,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources","Human trafficking, forced labor and debt bondage"
+SRA 1.1.3,Access to economic opportunity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Access to knowledge,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Accountable,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Economic diversity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Efficient and effective,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Equitable and inclusive,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Flexible and agile infrastructure,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Leadership and initiative,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Learning capacity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Mobility,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Social capital,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Technology transfer,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.3,Transparent,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Child labor
+SRA 1.1.4,Access to economic opportunity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Access to knowledge,NA,NA,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Accountable,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Economic diversity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Efficient and effective,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Equitable and inclusive,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Flexible and agile infrastructure,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Leadership and initiative,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Learning capacity,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Mobility,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Social capital,NA,NA,1,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Technology transfer,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.4,Transparent,NA,NA,0,Human and labor rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Freedom of association and collective bargaining
+SRA 1.1.5,Access to economic opportunity,NA,NA,1,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Access to knowledge,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Accountable,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Economic diversity,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Efficient and effective,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Equitable and inclusive,NA,NA,2,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Flexible and agile infrastructure,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Leadership and initiative,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Learning capacity,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Mobility,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Social capital,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Technology transfer,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.5,Transparent,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Earnings and benefits
+SRA 1.1.6,Access to economic opportunity,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Access to knowledge,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Accountable,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Economic diversity,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Efficient and effective,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Equitable and inclusive,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Flexible and agile infrastructure,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Leadership and initiative,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Learning capacity,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Mobility,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Social capital,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Technology transfer,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.6,Transparent,NA,NA,0,Freedom of association and collective bargaining,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Adequate rest
+SRA 1.1.7,Access to economic opportunity,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Access to knowledge,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Accountable,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Economic diversity,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Efficient and effective,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Equitable and inclusive,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Flexible and agile infrastructure,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Leadership and initiative,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Learning capacity,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Mobility,NA,NA,1,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Social capital,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Technology transfer,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.7,Transparent,NA,NA,0,Access to basic services for worker housing/ live-aboard vessels,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Access to basic services
+SRA 1.1.8,Access to economic opportunity,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Access to knowledge,NA,NA,1,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Accountable,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Economic diversity,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Efficient and effective,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Equitable and inclusive,NA,NA,1,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Flexible and agile infrastructure,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Leadership and initiative,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Learning capacity,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Mobility,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Social capital,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Technology transfer,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.8,Transparent,NA,NA,0,Occupational safety,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Occupational safety
+SRA 1.1.9,Access to economic opportunity,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Access to knowledge,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Accountable,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Economic diversity,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Efficient and effective,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Equitable and inclusive,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Flexible and agile infrastructure,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Leadership and initiative,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Learning capacity,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Mobility,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Social capital,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Technology transfer,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.1.9,Transparent,NA,NA,0,Medical response,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Medical response
+SRA 1.2.1,Access to economic opportunity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Access to knowledge,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Accountable,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Economic diversity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Efficient and effective,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Equitable and inclusive,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Flexible and agile infrastructure,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Leadership and initiative,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Learning capacity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Mobility,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Social capital,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Technology transfer,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.1,Transparent,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Customary resource use rights
+SRA 1.2.2,Access to economic opportunity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Access to knowledge,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Accountable,NA,NA,1,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Economic diversity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Efficient and effective,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Equitable and inclusive,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Flexible and agile infrastructure,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Leadership and initiative,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Learning capacity,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Mobility,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Social capital,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Technology transfer,NA,NA,0,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 1.2.2,Transparent,NA,NA,3,Access Rights,SRA_P1,SRA,"Protect human rights, dignity, and access to resources",Corporate responsibility and transparency
+SRA 2.1.1,Access to economic opportunity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Access to knowledge,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Accountable,NA,NA,3,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Economic diversity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Efficient and effective,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Equitable and inclusive,NA,NA,1,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Flexible and agile infrastructure,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Leadership and initiative,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Learning capacity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Mobility,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Social capital,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Technology transfer,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.1,Transparent,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Grievance reporting and access to remedy
+SRA 2.1.2,Access to economic opportunity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Access to knowledge,NA,NA,1,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Accountable,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Economic diversity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Efficient and effective,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Equitable and inclusive,NA,NA,1,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Flexible and agile infrastructure,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Leadership and initiative,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Learning capacity,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Mobility,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Social capital,NA,NA,2,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Technology transfer,NA,NA,0,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.1.2,Transparent,NA,NA,2,Equality,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Stakeholder participation and collaborative management
+SRA 2.2.1,Access to economic opportunity,NA,NA,1,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Access to knowledge,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Accountable,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Economic diversity,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Efficient and effective,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Equitable and inclusive,NA,NA,1,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Flexible and agile infrastructure,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Leadership and initiative,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Learning capacity,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Mobility,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Social capital,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Technology transfer,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.1,Transparent,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Equitable opportunity to benefit
+SRA 2.2.2,Access to economic opportunity,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Access to knowledge,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Accountable,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Economic diversity,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Efficient and effective,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Equitable and inclusive,NA,NA,1,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Flexible and agile infrastructure,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Leadership and initiative,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Learning capacity,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Mobility,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Social capital,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Technology transfer,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 2.2.2,Transparent,NA,NA,0,Equity,SRA_P2,SRA,Ensure equality and equitable opportunity to benefit,Discrimination
+SRA 3.1.1,Access to economic opportunity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Access to knowledge,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Accountable,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Economic diversity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Efficient and effective,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Equitable and inclusive,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Flexible and agile infrastructure,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Leadership and initiative,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Learning capacity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Mobility,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Social capital,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Technology transfer,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.1,Transparent,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Food and nutrition security
+SRA 3.1.2,Access to economic opportunity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Access to knowledge,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Accountable,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Economic diversity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Efficient and effective,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Equitable and inclusive,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Flexible and agile infrastructure,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Leadership and initiative,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Learning capacity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Mobility,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Social capital,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Technology transfer,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.2,Transparent,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Healthcare
+SRA 3.1.3,Access to economic opportunity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Access to knowledge,NA,NA,2,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Accountable,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Economic diversity,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Efficient and effective,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Equitable and inclusive,NA,NA,1,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Flexible and agile infrastructure,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Leadership and initiative,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Learning capacity,NA,NA,1,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Mobility,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Social capital,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Technology transfer,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.1.3,Transparent,NA,NA,0,Food and nutrition security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Education
+SRA 3.2.1,Access to economic opportunity,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Access to knowledge,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Economic diversity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Equitable and inclusive,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.1,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Benefits to and within community
+SRA 3.2.2,Access to economic opportunity,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Access to knowledge,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Economic diversity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Equitable and inclusive,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.2,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic value retention
+SRA 3.2.3,Access to economic opportunity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Access to knowledge,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Economic diversity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Equitable and inclusive,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.3,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Long-term profitability and future workforce
+SRA 3.2.4,Access to economic opportunity,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Access to knowledge,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Economic diversity,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Equitable and inclusive,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.4,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Economic flexibility and autonomy
+SRA 3.2.5,Access to economic opportunity,NA,NA,3,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Access to knowledge,NA,NA,1,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Economic diversity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Equitable and inclusive,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.5,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Livelihood security
+SRA 3.2.6,Access to economic opportunity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Access to knowledge,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Accountable,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Economic diversity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Efficient and effective,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Equitable and inclusive,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Flexible and agile infrastructure,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Leadership and initiative,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Learning capacity,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Mobility,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Social capital,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Technology transfer,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency
+SRA 3.2.6,Transparent,NA,NA,0,Livelihood security,SRA_P3,SRA,"Improve food, nutrition, and livelihood security",Fuel resource efficiency

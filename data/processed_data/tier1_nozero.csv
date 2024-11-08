@@ -1,0 +1,82 @@
+assessment,assessment_principle,indicator_code,indicator,attribute_dimension,attribute,correspondence_score
+ERA,ERA_P1,ERA 1.2.3,Information and monitoring,Ecological,Age structure,1
+ERA,ERA_P2,ERA 2.2.1,Other species outcome,Ecological,Species diversity,1
+ERA,ERA_P2,ERA 2.4.1,Habitats outcome,Ecological,Habitat diversity,1
+ERA,ERA_P2,ERA 2.4.2,Habitats management,Ecological,Habitat diversity,1
+ERA,ERA_P2,ERA 2.5.1,Ecosystem outcome,Ecological,Ecosystem connectivity,1
+ERA,ERA_P1,ERA 1.1.1,Stock status outcome,Ecological,Age structure,2
+ERA,ERA_P1,ERA 1.1.1,Stock status outcome,Ecological,Population abundance,3
+ERA,ERA_P1,ERA 1.2.1,Harvest strategy,Governance,Responsive,1
+ERA,ERA_P3,ERA 3.2.4,"Monitoring, management, performance evaluation",Governance,Adaptive,1
+SRA,SRA_P1,SRA 1.1.5,Earnings and benefits,Governance,Adaptive,1
+SRA,SRA_P1,SRA 1.1.7,Access to basic services,Governance,Participatory,1
+ERA,ERA_P3,ERA 3.1.2,"Consultation, roles, and responsibilities",Governance,Polycentric,2
+ERA,ERA_P3,ERA 3.1.2,"Consultation, roles, and responsibilities",Governance,Participatory,3
+SRA,SRA_P1,SRA 1.2.1,Customary resource use rights,Governance,Participatory,3
+SRA,SRA_P2,SRA 2.1.2,Stakeholder participation and collaborative management,Governance,Participatory,3
+ERA,ERA_P1,ERA 1.2.3,Information and monitoring,Socio-economic,Knowledge diversity,1
+ERA,ERA_P1,ERA 1.2.4,Assessment of stock status,Socio-economic,Knowledge diversity,1
+ERA,ERA_P2,ERA 2.2.3,Other species information,Socio-economic,Knowledge diversity,1
+ERA,ERA_P2,ERA 2.3.3,ETP species information,Socio-economic,Knowledge diversity,1
+ERA,ERA_P2,ERA 2.4.3,Habitats information,Socio-economic,Knowledge diversity,1
+ERA,ERA_P2,ERA 2.5.3,Ecosystem information,Socio-economic,Knowledge diversity,1
+SRA,SRA_P1,SRA 1.1.1,Abuse and harassment,Socio-economic,Agency,1
+SRA,SRA_P1,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",Socio-economic,Wealth and reserves,1
+SRA,SRA_P1,SRA 1.1.3,Child labor,Socio-economic,Agency,1
+SRA,SRA_P1,SRA 1.1.7,Access to basic services,Socio-economic,Agency,1
+SRA,SRA_P2,SRA 2.2.2,Discrimination,Socio-economic,Agency,1
+SRA,SRA_P3,SRA 3.1.1,Food and nutrition security,Socio-economic,Wealth and reserves,1
+SRA,SRA_P3,SRA 3.1.2,Healthcare,Socio-economic,Agency,1
+SRA,SRA_P3,SRA 3.2.3,Long-term profitability and future workforce,Socio-economic,Wealth and reserves,1
+SRA,SRA_P3,SRA 3.2.4,Economic flexibility and autonomy,Socio-economic,Agency,1
+SRA,SRA_P3,SRA 3.2.5,Livelihood security,Socio-economic,Agency,1
+SRA,SRA_P3,SRA 3.2.5,Livelihood security,Socio-economic,Wealth and reserves,1
+ERA,ERA_P3,ERA 3.1.2,"Consultation, roles, and responsibilities",Socio-economic,Knowledge diversity,2
+SRA,SRA_P1,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",Socio-economic,Agency,2
+SRA,SRA_P1,SRA 1.1.5,Earnings and benefits,Socio-economic,Wealth and reserves,2
+SRA,SRA_P3,SRA 3.2.1,Benefits to and within community,Socio-economic,Wealth and reserves,2
+SRA,SRA_P1,SRA 1.1.4,Freedom of association and collective bargaining,Socio-economic,Agency,2
+ERA,ERA_P3,ERA 3.1.1,Legal and/or customary framework,NA,Accountable,1
+ERA,ERA_P3,ERA 3.1.1,Legal and/or customary framework,NA,Equitable and inclusive,1
+ERA,ERA_P3,ERA 3.1.1,Legal and/or customary framework,NA,Transparent,1
+ERA,ERA_P3,ERA 3.1.2,"Consultation, roles, and responsibilities",NA,Efficient and effective,1
+ERA,ERA_P3,ERA 3.2.2,Decision-making processes,NA,Access to knowledge,1
+ERA,ERA_P3,ERA 3.2.2,Decision-making processes,NA,Transparent,1
+ERA,ERA_P3,ERA 3.2.3,Compliance and enforcement,NA,Efficient and effective,1
+ERA,ERA_P3,ERA 3.2.4,"Monitoring, management, performance evaluation",NA,Accountable,1
+SRA,SRA_P1,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",NA,Access to economic opportunity,1
+SRA,SRA_P1,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",NA,Accountable,1
+SRA,SRA_P1,SRA 1.1.2,"Human trafficking, forced labor and debt bondage",NA,Mobility,1
+SRA,SRA_P1,SRA 1.1.4,Freedom of association and collective bargaining,NA,Access to knowledge,1
+SRA,SRA_P1,SRA 1.1.4,Freedom of association and collective bargaining,NA,Social capital,1
+SRA,SRA_P1,SRA 1.1.5,Earnings and benefits,NA,Access to economic opportunity,1
+SRA,SRA_P1,SRA 1.1.7,Access to basic services,NA,Mobility,1
+SRA,SRA_P1,SRA 1.1.8,Occupational safety,NA,Access to knowledge,1
+SRA,SRA_P1,SRA 1.1.8,Occupational safety,NA,Equitable and inclusive,1
+SRA,SRA_P1,SRA 1.2.2,Corporate responsibility and transparency,NA,Accountable,1
+SRA,SRA_P2,SRA 2.1.1,Grievance reporting and access to remedy,NA,Equitable and inclusive,1
+SRA,SRA_P2,SRA 2.1.2,Stakeholder participation and collaborative management,NA,Access to knowledge,1
+SRA,SRA_P2,SRA 2.1.2,Stakeholder participation and collaborative management,NA,Equitable and inclusive,1
+SRA,SRA_P2,SRA 2.2.1,Equitable opportunity to benefit,NA,Access to economic opportunity,1
+SRA,SRA_P2,SRA 2.2.1,Equitable opportunity to benefit,NA,Equitable and inclusive,1
+SRA,SRA_P2,SRA 2.2.2,Discrimination,NA,Equitable and inclusive,1
+SRA,SRA_P3,SRA 3.1.3,Education,NA,Equitable and inclusive,1
+SRA,SRA_P3,SRA 3.1.3,Education,NA,Learning capacity,1
+SRA,SRA_P3,SRA 3.2.1,Benefits to and within community,NA,Access to economic opportunity,1
+SRA,SRA_P3,SRA 3.2.1,Benefits to and within community,NA,Equitable and inclusive,1
+SRA,SRA_P3,SRA 3.2.2,Economic value retention,NA,Access to economic opportunity,1
+SRA,SRA_P3,SRA 3.2.2,Economic value retention,NA,Equitable and inclusive,1
+SRA,SRA_P3,SRA 3.2.4,Economic flexibility and autonomy,NA,Access to economic opportunity,1
+SRA,SRA_P3,SRA 3.2.4,Economic flexibility and autonomy,NA,Access to knowledge,1
+SRA,SRA_P3,SRA 3.2.4,Economic flexibility and autonomy,NA,Economic diversity,1
+SRA,SRA_P3,SRA 3.2.4,Economic flexibility and autonomy,NA,Equitable and inclusive,1
+SRA,SRA_P3,SRA 3.2.5,Livelihood security,NA,Access to knowledge,1
+ERA,ERA_P3,ERA 3.1.1,Legal and/or customary framework,NA,Efficient and effective,2
+SRA,SRA_P1,SRA 1.1.1,Abuse and harassment,NA,Accountable,2
+SRA,SRA_P1,SRA 1.1.5,Earnings and benefits,NA,Equitable and inclusive,2
+SRA,SRA_P2,SRA 2.1.2,Stakeholder participation and collaborative management,NA,Social capital,2
+SRA,SRA_P2,SRA 2.1.2,Stakeholder participation and collaborative management,NA,Transparent,2
+SRA,SRA_P3,SRA 3.1.3,Education,NA,Access to knowledge,2
+SRA,SRA_P1,SRA 1.2.2,Corporate responsibility and transparency,NA,Transparent,3
+SRA,SRA_P2,SRA 2.1.1,Grievance reporting and access to remedy,NA,Accountable,3
+SRA,SRA_P3,SRA 3.2.5,Livelihood security,NA,Access to economic opportunity,3
